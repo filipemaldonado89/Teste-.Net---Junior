@@ -1,6 +1,10 @@
 
 ## Programador .Net
 
+### Prazo de entrega
+
+O candidato terá 7 dias para entrega do projeto, a contar da data do recebimento do e-mail com as instruções.
+
 # Instruções
   
     1. Faça um fork deste repositório;

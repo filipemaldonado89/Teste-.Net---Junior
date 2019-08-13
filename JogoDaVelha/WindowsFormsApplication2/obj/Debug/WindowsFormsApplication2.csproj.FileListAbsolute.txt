@@ -1,0 +1,9 @@
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\filip\documents\visual studio 2013\Projects\JogoDaVelha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
